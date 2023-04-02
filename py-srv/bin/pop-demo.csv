@@ -1,0 +1,9 @@
+id,name,color,price,quanity
+0,"Orange","orange",0.99,0
+1,"Grape","purple",1.89,10
+2,"Blueberry","blue",0.55,20
+3,"Strawberry","red",1.19,30
+4,"Orange","orange::green",2.29,40
+5,"Blume","red-orange",1.49,50
+6,"Orange","orange::yellow",2.29,60
+7,"Strawberry","red",1.19,70
